@@ -1,0 +1,203 @@
+Read request made. ADDR: 0, Time: 45
+Read request made. ADDR: 0, Time: 65
+Write request made. ADDR: 8, Data: 48c2e0e4, Time: 85
+Read request made. ADDR: 0, Time: 105
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 0, Time: 125
+Write request made. ADDR: 8, Data: 2a14ffe4, Time: 145
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 1000, Time: 165
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 1000, Time: 185
+Read request made. ADDR: 8, Time: 205
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 8, Time: 225
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 8, Time: 245
+Correct Response. Rdata: 0 Error=0
+Write request made. ADDR: 8, Data: a451ff62, Time: 265
+Read request made. ADDR: 8, Time: 285
+Correct Response. Rdata: 0 Error=1
+Write request made. ADDR: 8, Data: 62f9ab56, Time: 305
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 8, Time: 325
+Read request made. ADDR: 0, Time: 345
+Correct Response. Rdata: 2a14ffe4 Error=0
+Read request made. ADDR: 1000, Time: 365
+Correct Response. Rdata: 2a14ffe4 Error=0
+Read request made. ADDR: 0, Time: 385
+Correct Response. Rdata: 2a14ffe4 Error=0
+Write request made. ADDR: 8, Data: 56d1085c, Time: 415
+Correct Response. Rdata: 0 Error=0
+Write request made. ADDR: 8, Data: ad1f459e, Time: 435
+Correct Response. Rdata: a451ff62 Error=0
+Write request made. ADDR: 8, Data: 7b331cee, Time: 465
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 0, Time: 495
+Correct Response. Rdata: 62f9ab56 Error=0
+Write request made. ADDR: 8, Data: 5a50ed63, Time: 525
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 0, Time: 555
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 8, Time: 575
+Correct Response. Rdata: cdc00000 Error=0
+Write request made. ADDR: 8, Data: ef938f06, Time: 605
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 8, Time: 635
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 1000, Time: 665
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 0, Time: 695
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 1000, Time: 715
+Correct Response. Rdata: 0 Error=0
+Write request made. ADDR: 8, Data: 9383fef7, Time: 745
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 8, Time: 775
+Correct Response. Rdata: 5a50ed63 Error=0
+Write request made. ADDR: 8, Data: 9c43d877, Time: 805
+Correct Response. Rdata: 0 Error=0
+Write request made. ADDR: 8, Data: f1a80ca8, Time: 835
+Correct Response. Rdata: ef938f06 Error=0
+Read request made. ADDR: 1000, Time: 855
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 1000, Time: 885
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 0, Time: 915
+Correct Response. Rdata: 0 Error=1
+Write request made. ADDR: 8, Data: 827ff166, Time: 945
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 1000, Time: 975
+Correct Response. Rdata: 9383fef7 Error=0
+Read request made. ADDR: 8, Time: 995
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 1000, Time: 1025
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 1000, Time: 1055
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 0, Time: 1085
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 8, Time: 1115
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 1000, Time: 1135
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 1000, Time: 1165
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 0, Time: 1195
+Correct Response. Rdata: 827ff166 Error=0
+Read request made. ADDR: 1000, Time: 1225
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 8, Time: 1255
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 8, Time: 1275
+Correct Response. Rdata: cdc00000 Error=0
+Write request made. ADDR: 8, Data: 7c49d55d, Time: 1305
+Correct Response. Rdata: 827ff166 Error=0
+Read request made. ADDR: 1000, Time: 1335
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 0, Time: 1365
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 1000, Time: 1395
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 8, Time: 1415
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 8, Time: 1445
+Correct Response. Rdata: 827ff166 Error=0
+Read request made. ADDR: 8, Time: 1475
+Correct Response. Rdata: 827ff166 Error=0
+Read request made. ADDR: 0, Time: 1505
+Correct Response. Rdata: 0 Error=0
+Write request made. ADDR: 8, Data: 7de738c2, Time: 1535
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 0, Time: 1555
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 0, Time: 1585
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 1000, Time: 1615
+Correct Response. Rdata: 7c49d55d Error=0
+Read request made. ADDR: 8, Time: 1645
+Correct Response. Rdata: 7c49d55d Error=0
+Read request made. ADDR: 1000, Time: 1675
+Correct Response. Rdata: 7c49d55d Error=0
+Read request made. ADDR: 8, Time: 1695
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 8, Time: 1725
+Correct Response. Rdata: 0 Error=0
+Write request made. ADDR: 8, Data: a87b8cf, Time: 1755
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 8, Time: 1785
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 1000, Time: 1815
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 8, Time: 1835
+Correct Response. Rdata: 7de738c2 Error=0
+Write request made. ADDR: 8, Data: 86589faf, Time: 1865
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 1000, Time: 1895
+Correct Response. Rdata: 7de738c2 Error=0
+Read request made. ADDR: 8, Time: 1925
+Correct Response. Rdata: 7de738c2 Error=0
+Read request made. ADDR: 1000, Time: 1955
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 1000, Time: 1975
+Correct Response. Rdata: a87b8cf Error=0
+Write request made. ADDR: 8, Data: 914e377, Time: 2005
+Correct Response. Rdata: 0 Error=1
+Write request made. ADDR: 8, Data: 5906870b, Time: 2035
+Correct Response. Rdata: a87b8cf Error=0
+Read request made. ADDR: 1000, Time: 2065
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 1000, Time: 2095
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 0, Time: 2115
+Correct Response. Rdata: 86589faf Error=0
+Write request made. ADDR: 8, Data: ca972bfb, Time: 2145
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 0, Time: 2175
+Correct Response. Rdata: 0 Error=1
+Write request made. ADDR: 8, Data: 6e6dcddd, Time: 2205
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 0, Time: 2235
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 0, Time: 2255
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 8, Time: 2285
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 8, Time: 2315
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 8, Time: 2345
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 1000, Time: 2375
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 8, Time: 2395
+Correct Response. Rdata: 0 Error=0
+Read request made. ADDR: 8, Time: 2425
+Correct Response. Rdata: cdc00000 Error=0
+Read request made. ADDR: 8, Time: 2455
+Correct Response. Rdata: cdc00000 Error=0
+Write request made. ADDR: 8, Data: 57aa2662, Time: 2485
+Correct Response. Rdata: 6e6dcddd Error=0
+Write request made. ADDR: 8, Data: 7ba1e90, Time: 2515
+Correct Response. Rdata: 6e6dcddd Error=0
+Read request made. ADDR: 8, Time: 2535
+Correct Response. Rdata: 6e6dcddd Error=0
+Read request made. ADDR: 0, Time: 2565
+Correct Response. Rdata: 0 Error=1
+Read request made. ADDR: 0, Time: 2595
+Correct Response. Rdata: 6e6dcddd Error=0
+Read request made. ADDR: 0, Time: 2625
+Correct Response. Rdata: 6e6dcddd Error=0
+Read request made. ADDR: 1000, Time: 2655
+Correct Response. Rdata: 6e6dcddd Error=0
+Read request made. ADDR: 0, Time: 2675
+Correct Response. Rdata: 0 Error=0
+Correct Response. Rdata: 0 Error=0
+Correct Response. Rdata: 7ba1e90 Error=0
+Correct Response. Rdata: cdc00000 Error=0
+Correct Response. Rdata: cdc00000 Error=0
+Correct Response. Rdata: cdc00000 Error=0
+Correct Response. Rdata: 0 Error=1
+Correct Response. Rdata: cdc00000 Error=0
+Expected responses remaining: 0
+ALL TESTS PASSED
+- tb/master.sv:130: Verilog $finish

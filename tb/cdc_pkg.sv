@@ -4,7 +4,6 @@ package cdc;
         logic        write;
         logic [31:0] addr;
         logic [31:0] wdata;
-        logic [3:0]  wstrb;
     } request_t;
 
     typedef struct packed {
